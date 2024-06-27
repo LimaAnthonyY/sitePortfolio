@@ -20,6 +20,12 @@
   flex-direction: row-reverse;
 }
 
+.certificate ul li.certificate__reversed-list a {
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+
 .certificate ul li:not(:last-of-type) {
   margin-bottom: 12rem;
 }
@@ -33,6 +39,11 @@
 
 .certificate ul li .certificate__info {
   max-width: 47rem;
+}
+
+.certificate ul li.certificate__info a {
+  font-weight: 500;
+  text-decoration: underline;
 }
 
 .certificate ul li .certificate__info p {
