@@ -20,6 +20,11 @@
   flex-direction: row-reverse;
 }
 
+.projects ul li .projects__reversed-list a {
+  font-weight: 500;
+  text-decoration: underline;
+}
+
 .projects ul li:not(:last-of-type) {
   margin-bottom: 12rem;
 }
