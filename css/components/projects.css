@@ -18,6 +18,7 @@
 
 .projects ul li.projects__reversed-list {
   flex-direction: row-reverse;
+  text-align: justify;
 }
 
 .projects ul li .projects__reversed-list a {
@@ -38,6 +39,7 @@
 
 .projects ul li .projects__info {
   max-width: 47rem;
+  text-align: justify;
 }
 
 .projects ul li .projects__info p {

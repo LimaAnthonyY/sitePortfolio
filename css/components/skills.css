@@ -19,6 +19,12 @@
   gap: 2rem;
 }
 
+.skills .skills__content p2{
+  max-width: 56rem;
+  margin: 0 auto 6rem;
+  text-align: justify;
+}
+
 .skills .skills__content ul li .image-container {
   background-color: var(--white);
   padding: 2rem;

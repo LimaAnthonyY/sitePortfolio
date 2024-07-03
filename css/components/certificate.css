@@ -27,6 +27,7 @@
 
 .certificate ul li .certificate__reversed-list p {
   margin: 1rem 0 4rem;
+  text-align: justify;
 }
 
 .certificate ul li:not(:last-of-type) {
@@ -51,6 +52,7 @@
 
 .certificate ul li .certificate__info p {
   margin: 1rem 0 4rem;
+  text-align: justify;
 }
 
 .certificate ul li .certificate__info a {
